@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name" translatable="false">ProfileForm</string>
+    <string name="profile_title">Perfil</string>
+    <string name="name_textview">Nom</string>
+    <string name="surname_edittext">Cognom</string>
+    <string name="gender_title">Sexe</string>
+    <string name="gender_male">Masculí</string>
+    <string name="gender_female">Femení</string>
+    <string name="gender_other">Altre</string>
+    <string name="country_title">Pais</string>
+    <string name="preferred_volume_title">Volum preferit</string>
+    <string name="save_button_text">Guardar</string>
+
+    <string-array name="spinner_values">
+        <item>Espanya</item>
+        <item>Andorra</item>
+        <item>França</item>
+        <item>Portugal</item>
+    </string-array>
+</resources>
